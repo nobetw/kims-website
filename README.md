@@ -1,2 +1,2 @@
 # kims-website
-test2
+This is my website repo.
